@@ -1,5 +1,5 @@
 # idevicerestore
-
+i just needed github actions lmao :bangbang:
 *A command-line application to restore firmware files to iOS devices.*
 
 ![](https://github.com/libimobiledevice/idevicerestore/actions/workflows/build.yml/badge.svg)
